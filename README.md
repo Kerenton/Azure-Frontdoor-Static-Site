@@ -95,8 +95,8 @@ The repository is organized to separate application content, infrastructure conf
 │   └── logging.md                  # Traffic and access logging strategy
 │
 ├── deployment/
-│   ├── azure-cli-commands.md       # Azure CLI commands used for setup
-│   └── validation-tests.md         # curl and browser-based validation tests
+│   ├── validation-tests.md         # curl and browser-based validation tests
+│  
 │
 └── README.md
 
