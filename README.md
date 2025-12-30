@@ -10,7 +10,7 @@ The site is accessible via a custom domain and is designed to reflect real-world
 ## Architecture
 **Core components:**
 - Azure Storage Account (Static Website)
-- Azure Front Door (Standard/Premium)
+- Azure Front Door (Standard)
 - Azure DNS (custom domain)
 - Front Door managed TLS certificates
 - Rules Engine for redirects and security headers
